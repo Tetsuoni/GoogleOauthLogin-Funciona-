@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">googleauth</string>
+    <string name="title_activity_main">googleauth</string>
+    <string name="package_name">com.example.app</string>
+    <string name="custom_url_scheme">com.example.app</string>
+    <string name="server_client_id">935845557923-s1pbkltk8ls1nkfnu3ur4to5dmb6td74.apps.googleusercontent.com</string>
+</resources>
